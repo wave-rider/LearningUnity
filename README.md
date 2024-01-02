@@ -1,3 +1,7 @@
+# 3.1.2024
+Rigid Bodies • Physics • Unity Game Development for Beginners • Unity Fundamentals • (Pt. 194)
+https://www.youtube.com/watch?v=r3fkreqqEMw&list=PLS9G7A6kaaHPC__uNE0GtJTxhGmn5PS0-&index=195
+
 # 1.1.2024
 the Goal - to learn how to create complex colliders in Unity
 
