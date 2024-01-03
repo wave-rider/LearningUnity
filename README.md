@@ -4,6 +4,13 @@ https://www.youtube.com/watch?v=r3fkreqqEMw&list=PLS9G7A6kaaHPC__uNE0GtJTxhGmn5P
 Physic Materials - Unity Official Tutorials
 https://www.youtube.com/watch?v=SuUNnwswH94
 
+Mesh Collider • Physics • Unity Game Development for Beginners • Unity Fundamentals • (Pt. 197)
+https://www.youtube.com/watch?v=kjTGuCns2lg&list=PLS9G7A6kaaHPC__uNE0GtJTxhGmn5PS0-&index=197
+Mesh collider - 2 mesh colliders will not collide unless "Convex" property is checked. Only 255 triangles can be used.
+
+Creating Complex Colliders • Physics • Unity Game Dev Beginners • Unity Fundamentals • (Pt. 198)
+https://www.youtube.com/watch?v=lr09elWiRqo&list=PLS9G7A6kaaHPC__uNE0GtJTxhGmn5PS0-&index=198
+
 
 # 1.1.2024
 the Goal - to learn how to create complex colliders in Unity
