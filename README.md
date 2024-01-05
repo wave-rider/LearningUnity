@@ -1,6 +1,9 @@
 # 5.1.2024
 https://www.youtube.com/watch?v=lZaIkmRK5Gc
 How to create a book in Blender | Modeling tutorial in blender
+Select a cube, S - X,Y,Z to resize in only 1 direction
+Tab - to get into edit mode
+Ctr-R for loop cut
 
 # 3.1.2024
 Rigid Bodies • Physics • Unity Game Development for Beginners • Unity Fundamentals • (Pt. 194)
