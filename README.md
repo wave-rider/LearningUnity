@@ -1,8 +1,21 @@
+# 6.1.2024
+Building a book continued.
+Select edges and hold the Shift button, press F to fill it up
+Ctrl-R for a loop cut, in the Loop and cut menu set number of cuts to 5.
+TO make the curvy side of the book, select the very middle edge and enable proportional editing by presssing O from the 
+keyboard
+
+Important: change Preferences/Navigation/Orbit & Pan/Orbit Mrethod -> Trackball
+
+G = free Translate/Manipulate (X, Y and Z to lock axis) S = free Scale/Resize (X, Y and Z to lock axis) R = free Rotate (X, Y and Z to lock axis) 
+
+Bevelling. select and edge
+
 # 5.1.2024
 https://www.youtube.com/watch?v=lZaIkmRK5Gc
 How to create a book in Blender | Modeling tutorial in blender
 Select a cube, S - X,Y,Z to resize in only 1 direction
-Tab - to get into edit mode
+Tab - to get into the edit mode
 Ctr-R for loop cut
 
 # 3.1.2024
