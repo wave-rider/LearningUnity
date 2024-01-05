@@ -1,3 +1,7 @@
+# 5.1.2024
+https://www.youtube.com/watch?v=lvGAM_Bg-AE
+Blender 2.6 UV Mapping Tutorial Making a Beatles Cube Mapping Multiple Images to the Faces of a Cube
+
 # 3.1.2024
 Rigid Bodies • Physics • Unity Game Development for Beginners • Unity Fundamentals • (Pt. 194)
 https://www.youtube.com/watch?v=r3fkreqqEMw&list=PLS9G7A6kaaHPC__uNE0GtJTxhGmn5PS0-&index=195
