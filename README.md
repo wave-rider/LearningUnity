@@ -1,6 +1,6 @@
 # 5.1.2024
-https://www.youtube.com/watch?v=lvGAM_Bg-AE
-Blender 2.6 UV Mapping Tutorial Making a Beatles Cube Mapping Multiple Images to the Faces of a Cube
+https://www.youtube.com/watch?v=lZaIkmRK5Gc
+How to create a book in Blender | Modeling tutorial in blender
 
 # 3.1.2024
 Rigid Bodies • Physics • Unity Game Development for Beginners • Unity Fundamentals • (Pt. 194)
