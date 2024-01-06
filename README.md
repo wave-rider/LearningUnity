@@ -6,10 +6,15 @@ TO make the curvy side of the book, select the very middle edge and enable propo
 keyboard
 
 Important: change Preferences/Navigation/Orbit & Pan/Orbit Mrethod -> Trackball
-
 G = free Translate/Manipulate (X, Y and Z to lock axis) S = free Scale/Resize (X, Y and Z to lock axis) R = free Rotate (X, Y and Z to lock axis) 
 
-Bevelling. select and edge
+## Selecting multiple edges:
+Tab => Edit mode
+Shift + Click  to select multiple edges
+Ctrl-B to bevel the edges
+select edges - bridge edge loops - to make faces 
+select faces - Alt-E to bring the menu - extrude along normals
+select faces - Shift-H to hide evrything except selected faces
 
 # 5.1.2024
 https://www.youtube.com/watch?v=lZaIkmRK5Gc
