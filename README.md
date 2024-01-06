@@ -14,7 +14,8 @@ Shift + Click  to select multiple edges
 Ctrl-B to bevel the edges
 select edges - bridge edge loops - to make faces 
 select faces - Alt-E to bring the menu - extrude along normals
-select faces - Shift-H to hide evrything except selected faces
+select faces - Shift-H to hide evrything except selected faces, bridge edge loops`
+Select the loop - Mark seam
 
 # 5.1.2024
 https://www.youtube.com/watch?v=lZaIkmRK5Gc
