@@ -1,9 +1,14 @@
 # 7.1.2024
+Fixing the normals after the bridge edge loops. 
+
+Mesh->Normals->Flip
+
+
 The Book is finished based on the tutorial, but the import into Unity is failed.
 I can't see the textures.
 
-Looking at the next video:
-The Basics of Designing 3D Art with Blender and Unity
+Looking at the next video while waiting for the answer:
+The Basics of Designing 3D Art with Blender and Unity(O'Reilly)
 
 A new shortcut: Shift-A to add a new object in the object mode.
 
