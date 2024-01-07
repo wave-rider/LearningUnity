@@ -1,3 +1,12 @@
+# 7.1.2024
+The Book is finished based on the tutorial, but the import into Unity is failed.
+I can't see the textures.
+
+Looking at the next video:
+The Basics of Designing 3D Art with Blender and Unity
+
+A new shortcut: Shift-A to add a new object in the object mode.
+
 # 6.1.2024
 Building a book continued.
 Select edges and hold the Shift button, press F to fill it up
@@ -9,13 +18,13 @@ Important: change Preferences/Navigation/Orbit & Pan/Orbit Mrethod -> Trackball
 G = free Translate/Manipulate (X, Y and Z to lock axis) S = free Scale/Resize (X, Y and Z to lock axis) R = free Rotate (X, Y and Z to lock axis) 
 
 ## Selecting multiple edges:
-Tab => Edit mode
-Shift + Click  to select multiple edges
-Ctrl-B to bevel the edges
-select edges - bridge edge loops - to make faces 
-select faces - Alt-E to bring the menu - extrude along normals
-select faces - Shift-H to hide evrything except selected faces, bridge edge loops`
-Select the loop - Mark seam
+ - Tab => Edit mode
+ - Shift + Click  to select multiple edges
+ - Ctrl-B to bevel the edges
+ - select edges - bridge edge loops - to make faces 
+ - select faces - Alt-E to bring the menu - extrude along normals
+ - select faces - Shift-H to hide evrything except selected faces, bridge edge loops`
+ - Select the loop - Mark seam
 
 # 5.1.2024
 https://www.youtube.com/watch?v=lZaIkmRK5Gc
