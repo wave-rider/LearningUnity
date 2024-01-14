@@ -1,9 +1,9 @@
 # 14.1.2024
-I needed to select all objects in the unity editor by the tag and found this amazing script
+Search in Unity-Ctrl-K
+https://discussions.unity.com/t/cant-find-unity-quick-search-anywhere/247036
 
-https://nevzatarman.com/2015/01/10/unity-editor-scripting-filtering-hierarchy-by-tag-or-layer/
-
-https://github.com/nevarman/UnityEditorScripts/blob/master/Assets/Tut-2-FilterHierarchy/Editor/FilterHierarcyEditor.cs
+Best advice to learn Unity
+https://t.co/LARBpRrOFg
 
 # 7.1.2024
 Fixing the normals after the bridge edge loops. 
