@@ -1,14 +1,19 @@
+# 14.1.2024
+I needed to select all objects in the unity editor by the tag and found this amazing script
+
+https://nevzatarman.com/2015/01/10/unity-editor-scripting-filtering-hierarchy-by-tag-or-layer/
+
+https://github.com/nevarman/UnityEditorScripts/blob/master/Assets/Tut-2-FilterHierarchy/Editor/FilterHierarcyEditor.cs
+
 # 7.1.2024
 Fixing the normals after the bridge edge loops. 
 
 Mesh->Normals->Flip
-
-
 The Book is finished based on the tutorial, but the import into Unity is failed.
 I can't see the textures.
 
 Looking at the next video while waiting for the answer:
-The Basics of Designing 3D Art with Blender and Unity(O'Reilly)
+The Basics of Designing 3D Art with Blender and Unity(O'Reilly) - this was very useful. I created a book model eventually.
 
 A new shortcut: Shift-A to add a new object in the object mode.
 
