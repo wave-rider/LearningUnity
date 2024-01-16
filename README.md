@@ -1,3 +1,10 @@
+# 17-Jan-2024
+Grey Circles Appear Everytime I Select an Object
+https://forum.unity.com/threads/grey-circles-appear-everytime-i-select-an-object.467902/
+https://docs.unity3d.com/2023.2/Documentation/Manual/GizmosMenu.html
+![image](https://github.com/wave-rider/LearningUnity/assets/25537219/5d1dc906-993d-4380-9eb5-2fbb3302149b)
+
+
 # 16-Jan-2024
 https://docs.unity3d.com/2023.2/Documentation/Manual/compound-colliders-introduction.html
 
