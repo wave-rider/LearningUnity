@@ -4,6 +4,10 @@ Performance optimization tips: Physics in Unity | Tutorial
 
 https://blog.unity.com/games/optimize-your-mobile-game-performance-get-expert-tips-on-physics-ui-and-audio-settings
 
+convex vs concave
+https://www.youtube.com/watch?app=desktop&v=_uE90sarrrc
+the convex is like wrapping, it doesnt have holes
+
 
 # 17-Jan-2024
 Grey Circles Appear Everytime I Select an Object
