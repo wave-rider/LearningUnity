@@ -7,6 +7,7 @@ https://blog.unity.com/games/optimize-your-mobile-game-performance-get-expert-ti
 convex vs concave
 https://www.youtube.com/watch?app=desktop&v=_uE90sarrrc
 the convex is like wrapping, it doesnt have holes
+the convex shape it has only one entry point and exit point if you draw a line through it
 
 
 # 17-Jan-2024
