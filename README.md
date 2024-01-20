@@ -1,3 +1,10 @@
+# 20-Jan-2024
+https://www.youtube.com/watch?v=pTz3LMQpvfA
+Performance optimization tips: Physics in Unity | Tutorial
+
+https://blog.unity.com/games/optimize-your-mobile-game-performance-get-expert-tips-on-physics-ui-and-audio-settings
+
+
 # 17-Jan-2024
 Grey Circles Appear Everytime I Select an Object
 https://forum.unity.com/threads/grey-circles-appear-everytime-i-select-an-object.467902/
