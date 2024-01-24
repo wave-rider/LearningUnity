@@ -1,3 +1,7 @@
+# 24-Jan-2024
+https://blog.unity.com/engine-platform/spotlight-team-best-practices-collision-performance-optimization
+https://docs.unity3d.com/2023.3/Documentation/Manual/collider-shapes-introduction.html
+
 # 20-Jan-2024
 https://www.youtube.com/watch?v=pTz3LMQpvfA
 Performance optimization tips: Physics in Unity | Tutorial
