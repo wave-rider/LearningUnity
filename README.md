@@ -1,3 +1,15 @@
+# 6-Feb-2024
+From https://learn.unity.com/tutorial/add-light-sources-to-your-scene
+
+Color resources for lighting
+Khan Academy’s Pixar in a Box course unit on color science: A foundational primer that will take you deeper into the science of color than this learning experience.
+
+Draw Paint Academy’s Color theory guide for artists: An artist-perspective guided tour through color theory, and a useful refresher for those with a background in visual art.
+
+Massachusetts College of Art and Design’s Color theory research guide: A starting point to help you begin your own research journey into the aspects of color theory that interest you most.
+
+Bill Williams’s Stage Lighting Design on General Design Methods: Although written with a focus on theater lighting design, the basic concepts are still relevant for lighting for 3D digital spaces.
+
 # 3-Feb-2024
 https://learn.unity.com/mission/creative-core-lighting
 
