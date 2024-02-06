@@ -1,6 +1,8 @@
 # 6-Feb-2024
 From https://learn.unity.com/tutorial/add-light-sources-to-your-scene
 
+Note: GameObjects need to be flagged as Static to be included in the lightmap for ambient lighting. This is because lightmap data is precalculated and can only be calculated for GameObjects that don’t move at runtime. 
+
 Color resources for lighting
 Khan Academy’s Pixar in a Box course unit on color science: A foundational primer that will take you deeper into the science of color than this learning experience.
 
