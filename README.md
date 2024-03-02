@@ -9,9 +9,11 @@ https://github.com/gitextensions/gitextensions/releases
 - Run Powershell as an admin
 - Install choco
 5. Install Git
-  choco upgrade -y git
+  
+   choco upgrade -y git
 6. Install kdiff3
-  choco upgrade -y kdiff3
+  
+   choco upgrade -y kdiff3
 
 # 6-Feb-2024
 From https://learn.unity.com/tutorial/add-light-sources-to-your-scene
