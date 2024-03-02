@@ -1,3 +1,18 @@
+# 2 March 2024
+Installation steps
+1. Install Unity hub
+2. Install git extenstions
+https://github.com/gitextensions/gitextensions/releases
+3. Install .NET desktop runtime
+4. Install choco
+- https://chocolatey.org/install
+- Run Powershell as an admin
+- Install choco
+5. Install Git
+  choco upgrade -y git
+6. Install kdiff3
+  choco upgrade -y kdiff3
+
 # 6-Feb-2024
 From https://learn.unity.com/tutorial/add-light-sources-to-your-scene
 
