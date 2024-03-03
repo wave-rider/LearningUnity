@@ -1,3 +1,8 @@
+# 3 March 2024
+https://unity.com/how-to/learning-c-sharp-unity-beginners
+
+https://docs.unity3d.com/Manual/ExecutionOrder.html
+
 # 2 March 2024
 Installation steps
 1. Install Unity hub
