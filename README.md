@@ -1,3 +1,8 @@
+# 24 Apr 2024
+Looking at the XR interactables
+https://www.youtube.com/watch?v=ImPZyIM6XNs
+The Secret to Virtual Reality: Make VR Games Without the Headset
+
 # 3 March 2024
 https://unity.com/how-to/learning-c-sharp-unity-beginners
 
