@@ -1,5 +1,6 @@
 # 24 Jan 2025
 [Setup Unity VR Project](https://learn.unity.com/tutorial/vr-project-setup)
+[Setup Unity VR Project](https://learn.unity.com/tutorial/create-a-vr-starter-project-from-scratch#)
 
 # 27 Apr 2024
 [Unity XR 2023 - Make a VR Escape Room by Ryan Murray](https://youtube.com/playlist?list=PLZTzR-SmgYcP8lUf4PAqNyBdpEieYX8mU&feature=shared)
