@@ -1,3 +1,6 @@
+# 16 Mar 2025
+[What are normals](https://www.youtube.com/watch?v=hkTjreiookM)
+
 # 27 Feb 2024
 [How to make a Mesh in Unity (Dynamic, Vertices, UVs, Triangles)](https://www.youtube.com/watch?v=11c9rWRotJ8&t=0s)
 
